@@ -1,0 +1,10 @@
+dashboard del covid19 
+
+PCR
+Defunciones
+Casos
+
+Mapa como filtro para las distintas regiones
+elementos del dashboard
+
+
